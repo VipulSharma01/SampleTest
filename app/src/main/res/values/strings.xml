@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OnlineStroe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="cart_page">Cart-Page</string>
+    <string name="productname">ProductName</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="button">Button</string>
+</resources>
