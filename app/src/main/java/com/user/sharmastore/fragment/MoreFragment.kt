@@ -1,0 +1,18 @@
+package com.user.sharmastore.fragment
+
+import android.os.Bundle
+import androidx.fragment.app.Fragment
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import com.user.sharmastore.R
+import com.user.sharmastore.databinding.FragmentMoreBinding
+
+class MoreFragment : Fragment() {
+   private lateinit var binding: FragmentMoreBinding
+    override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
+        // Inflate the layout for this fragment
+        binding = FragmentMoreBinding.inflate(layoutInflater)
+        return binding.root
+    }
+}

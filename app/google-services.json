@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "591948345038",
-    "project_id": "online-store-71502",
-    "storage_bucket": "online-store-71502.appspot.com"
+    "project_number": "1089545296457",
+    "project_id": "sharmastore-78037",
+    "storage_bucket": "sharmastore-78037.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:591948345038:android:d79721a11c68ba9d76ea9f",
+        "mobilesdk_app_id": "1:1089545296457:android:8f5d5b63b2686aceb2fd98",
         "android_client_info": {
-          "package_name": "com.user.onlinestroe"
+          "package_name": "com.user.sharmastore"
         }
       },
       "oauth_client": [
         {
-          "client_id": "591948345038-2615q2f4f6trdjmrk783fmrft1o13u0g.apps.googleusercontent.com",
+          "client_id": "1089545296457-bmgq5sni36d2ncpvh2n3iq6trs145sje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.user.sharmastore",
+            "certificate_hash": "12ec33a7bde45671e0d937c0ec3bf98b86917ee4"
+          }
+        },
+        {
+          "client_id": "1089545296457-3nvu9pu9pmml57qqpcl0uebl764s6n2q.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCAl_VNZ99iM6lv8iGiP4ekNbWLcuPNIrU"
+          "current_key": "AIzaSyD3LZy8f_qvOoQATtfVqs-wluCCV4x032o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "591948345038-2615q2f4f6trdjmrk783fmrft1o13u0g.apps.googleusercontent.com",
+              "client_id": "1089545296457-3nvu9pu9pmml57qqpcl0uebl764s6n2q.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
